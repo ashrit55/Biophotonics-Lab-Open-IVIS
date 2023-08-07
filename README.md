@@ -3,3 +3,12 @@ This is the code for the Open-IVIS system created by the HMC Biophotonics Lab. T
 
 
 <b> Control of LED's <b> 
+  1. In the code the LED's are labeled by number
+  2. You can add as many as needed!
+  3. Control brightness and color to illuminate the box
+     
+<b> Control of Camera <b>  
+  1. Can change exposure time, shutter speed, and can add what needed
+  2. Up to 5 pictures a time which can be displayed at show images button (can be varied)
+
+With a modular design system, the program can be designed to take images under any lighting or camera conditions.
